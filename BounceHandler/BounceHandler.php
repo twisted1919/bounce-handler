@@ -1,4 +1,4 @@
-<?php if ( ! defined('MW_PATH')) exit('No direct script access allowed');
+<?php
 
 /**
  * BounceHandler
